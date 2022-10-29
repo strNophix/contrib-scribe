@@ -10,7 +10,10 @@ Your contribution heatmap is a canvas for creativity.
 ```sh
 # Start
 cp config.ini.sample config.ini
+
 ./scripts/install.sh
+# or manually without systemd
+python content_scribe.py config.ini
 
 # Stop
 ./scripts/uninstall.sh
