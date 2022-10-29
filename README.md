@@ -9,6 +9,7 @@ Your contribution heatmap is a canvas for creativity.
 ## Usage
 ```sh
 # Start
+cp config.ini.sample config.ini
 ./scripts/install.sh
 
 # Stop

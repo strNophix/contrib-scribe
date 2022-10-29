@@ -1,4 +1,4 @@
 [contrib_scribe]
-repo_path = ~/path/to/repo
+repo_path = /path/to/repo
 message = hi there
 commit_count = 3
